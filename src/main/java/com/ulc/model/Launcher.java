@@ -21,7 +21,7 @@ public class Launcher {
     private final static String NAME = "Name=%s" + System.lineSeparator();
     private final static String DESCRIPTION = "Comment=%s" + System.lineSeparator();
     private final static String EXEC = "Exec=%s" + System.lineSeparator();
-    private final static String ICON = "Icon=%s";
+    private final static String ICON = "Icon=%s" + System.lineSeparator();
     private final static String TERMINAL = "Terminal=%s" + System.lineSeparator();
     private final static String TYPE = "Type=%s" + System.lineSeparator();
 
